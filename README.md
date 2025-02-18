@@ -31,22 +31,33 @@ In this tutorial we are going to be creating tickets, observing ticket propertie
 
 </p>
 <p>
-First, login in as an end-user. Fill in your contact information: email, full name, and phone number. Then for Help Topic select "Report a Problem." In "issue summary" give a brief explanation of the problem followed by a description down below. See photo for reference. Finally, hit "Create Ticket."
+First, login in as an admin. Fill in your contact information: email, full name, and phone number. Then for Help Topic select "Report a Problem." In "issue summary" give a brief explanation of the problem followed by a description down below. In our case the issue involves users having trouble login into the online banking portal. See photo for reference. Finally, hit "Create Ticket."
 </p>
 <br />
 
+
+<h2>Observing and Setting Ticket Properties</h2>
+
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
+![Screenshot 2025-02-17 211111](https://github.com/user-attachments/assets/527a8a75-c506-4a84-8a38-d9f89b1cdc07)
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Now that we have an existing ticket, we will log in as Help Desk Agent (John). Go to the Tickets tab, where we can see open tickets. Select the current open ticket. Notice that there is an assigned ticket number and a subject line. Within the selected ticket, we can observe different properties, such as priority, department, SLA, and who it is assigned to. As John, we can choose a department. In this case, we are selecting the "Support" department. We will assign the ticket to the online banking team since the problem revolves around access to the online banking portal. Finally, we can select a severity level, which requires the ticket to be resolved within a preconfigured time frame.
 </p>
 <br />
 
+
+<h2>Resolving Tickets</h2>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
+![Screenshot 2025-02-17 213405](https://github.com/user-attachments/assets/64cfa125-a06b-4bd6-ae81-782f1b2a33dd)
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+We created a ticket, observed the properties, and assigned it. Now, we can work to resolve the issue, which requires problem-solving skills. John recalls that a recent update was processed by the company and suspects it may be causing the issue. He decides to troubleshoot by uninstalling the update. John finds that users can now access the online banking portal. John has resolved the ticket through critical thinking and troubleshooting. The final step is for John to post a concise explanation of what he did in the ticket thread. Once the comment is posted, John will go to the Ticket Status section and change the status to "Resolved." 
+  
+In this tutorial, we have successfully created, set properties, and resolved the ticket.
 </p>
 <br />
