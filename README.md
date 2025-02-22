@@ -35,13 +35,13 @@ Login in as an admin.
   
 1. Select "Open a New Ticket" tab.
 
-2.Fill in contact information: email, full name, and phone number.
+2. Fill in contact information: email, full name, and phone number.
 
 3. Help Topic -> "Report a Problem."
 
 4. "Issue summary" -> brief explanation of the problem followed by a description. In our case the issue involves users having trouble login into the online banking portal.
 
-5."Create Ticket."
+5. "Create Ticket."
 </p>
 <br />
 
