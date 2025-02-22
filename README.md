@@ -31,7 +31,17 @@ In this tutorial we are going to be creating tickets, observing ticket propertie
 
 </p>
 <p>
-First, login in as an admin. Fill in your contact information: email, full name, and phone number. Then for Help Topic select "Report a Problem." In "issue summary" give a brief explanation of the problem followed by a description down below. In our case the issue involves users having trouble login into the online banking portal. See photo for reference. Finally, hit "Create Ticket."
+Login in as an admin. 
+  
+1. Select "Open a New Ticket" tab.
+
+2.Fill in contact information: email, full name, and phone number.
+
+3. Help Topic -> "Report a Problem."
+
+4. "Issue summary" -> brief explanation of the problem followed by a description. In our case the issue involves users having trouble login into the online banking portal.
+
+5."Create Ticket."
 </p>
 <br />
 
@@ -44,7 +54,13 @@ First, login in as an admin. Fill in your contact information: email, full name,
 
 </p>
 <p>
-Now that we have an existing ticket, we will log in as Help Desk Agent (John). Go to the Tickets tab, where we can see open tickets. Select the current open ticket. Notice that there is an assigned ticket number and a subject line. Within the selected ticket, we can observe different properties, such as priority, department, SLA, and who it is assigned to. As John, we can choose a department. In this case, we are selecting the "Support" department. We will assign the ticket to the online banking team since the problem revolves around access to the online banking portal. Finally, we can select a severity level, which requires the ticket to be resolved within a preconfigured time frame.
+Now that we have an existing ticket, we will log in as Help Desk Agent (John). 
+  
+1. Select Tickets tab, where we can see open tickets.
+
+2. Select the current open ticket.
+
+Notice that there is an assigned ticket number and a subject line. Within the selected ticket, we can observe different properties, such as priority, department, SLA, and who it is assigned to. As John, we can choose a department. In this case, we are selecting the "Support" department. We will assign the ticket to the online banking team since the problem revolves around access to the online banking portal. Additionally, we can select a severity level, which requires the ticket to be resolved within a preconfigured time frame.
 </p>
 <br />
 
@@ -58,6 +74,6 @@ Now that we have an existing ticket, we will log in as Help Desk Agent (John). G
 <p>
 We created a ticket, observed the properties, and assigned it. Now, we can work to resolve the issue, which requires problem-solving skills. John recalls that a recent update was processed by the company and suspects it may be causing the issue. He decides to troubleshoot by uninstalling the update. John finds that users can now access the online banking portal. John has resolved the ticket through critical thinking and troubleshooting. The final step is for John to post a concise explanation of what he did in the ticket thread. Once the comment is posted, John will go to the Ticket Status section and change the status to "Resolved." 
   
-In this tutorial, we have successfully created, set properties, and resolved the ticket.
+In this tutorial, we have successfully created a ticket, set its properties, and resolved it.
 </p>
 <br />
